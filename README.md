@@ -35,3 +35,5 @@ Three Tbales used in this case study:
 ### Bonus Questions
 11. Join All The Things
 12. Rank All The Things
+
+[**Answers**](https://github.com/SharvananB0510/8_week_sql_challenge_case-1/blob/main/solutions.md)
