@@ -17,6 +17,9 @@ Three Tbales used in this case study:
 - Sales: The sales table captures all customer_id level purchases with an corresponding order_date and product_id information for when and what menu items were ordered.
 - Menu: The menu table maps the product_id to the actual product_name and price of each menu item.
 - Members: The members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
+### ER Diagram
+
+![image](https://github.com/SharvananB0510/8_week_sql_challenge_case-1/assets/69303949/bf61b6c3-727e-4dd7-a42d-9f2ecd8a6a34)
 
 ## Questions
 1. What is the total amount each customer spent at the restaurant?
